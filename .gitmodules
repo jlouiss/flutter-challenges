@@ -1,0 +1,3 @@
+[submodule "i_am_poor"]
+	path = i_am_poor
+	url = git@github.com:jlouiss/flutter-challenges-i_am_poor.git

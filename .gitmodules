@@ -4,3 +4,6 @@
 [submodule "business_card"]
 	path = business_card
 	url = git@github.com:jlouiss/flutter-challenges-business_card.git
+[submodule "dices_app"]
+	path = dices_app
+	url = git@github.com:jlouiss/flutter-challenges-dices_app.git

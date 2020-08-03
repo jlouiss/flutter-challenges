@@ -10,3 +10,6 @@ Simple business card app
 
 ### `dices_app`
 Show 2 dices, randomize on tap
+
+### `eight_ball`
+8 Ball app

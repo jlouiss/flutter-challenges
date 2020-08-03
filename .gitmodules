@@ -7,3 +7,6 @@
 [submodule "dices_app"]
 	path = dices_app
 	url = git@github.com:jlouiss/flutter-challenges-dices_app.git
+[submodule "eight_ball"]
+	path = eight_ball
+	url = git@github.com:jlouiss/flutter-challenges-eight_ball.git

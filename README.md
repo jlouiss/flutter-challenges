@@ -13,3 +13,6 @@ Show 2 dices, randomize on tap
 
 ### `eight_ball`
 8 Ball app
+
+### `xylophone`
+Play sounds just like a xylophone

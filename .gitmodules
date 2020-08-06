@@ -13,3 +13,6 @@
 [submodule "xylophone"]
 	path = xylophone
 	url = git@github.com:jlouiss/flutter-challenges-xylophone.git
+[submodule "quiz"]
+	path = quiz
+	url = git@github.com:jlouiss/flutter-challenges-quiz.git

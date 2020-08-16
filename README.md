@@ -16,3 +16,6 @@ Show 2 dices, randomize on tap
 
 ### `xylophone`
 Play sounds just like a xylophone
+
+### `quiz`
+Quiz.

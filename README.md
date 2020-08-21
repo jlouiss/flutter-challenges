@@ -19,3 +19,6 @@ Play sounds just like a xylophone
 
 ### `quiz`
 Quiz.
+
+### `game`
+Text based adventure

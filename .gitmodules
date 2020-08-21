@@ -19,3 +19,6 @@
 [submodule "game"]
 	path = game
 	url = git@github.com:jlouiss/flutter-challenges-game.git
+[submodule "bmi_calculator"]
+	path = bmi_calculator
+	url = git@github.com:jlouiss/flutter-challenges-bmi_calculator.git

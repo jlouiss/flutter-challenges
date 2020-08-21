@@ -16,3 +16,6 @@
 [submodule "quiz"]
 	path = quiz
 	url = git@github.com:jlouiss/flutter-challenges-quiz.git
+[submodule "game"]
+	path = game
+	url = git@github.com:jlouiss/flutter-challenges-game.git
